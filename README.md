@@ -25,7 +25,7 @@ yarn dev
 
 Navigate to the homepage at https://localhost:3000. To edit the homepage, access the Puck editor at https://localhost:3000/edit.
 
-You can do this for any route on the application, **even if the page doesn't exist**. For example, visit https://localhost:3000/hello/world and you'll receive a 404. You can author and publish a page by visiting https://localhost:3000/hello/world/edit. After publishing, go back to the original URL to see your page.
+You can do this for any route on the application, **even if the page doesn't exist**. For example, visit https://localhost:3000/edit and you'll receive a 404. You can author and publish a page by visiting https://localhost:3000/edit. After publishing, go back to the original URL to see your page.
 
 ## Using this recipe
 
